@@ -1,13 +1,18 @@
 ﻿# IoT-weather-station
 
-A weather station is a device that collects data related to the weather & environment using different sensors. There are two types of weather stations, one which is having own sensors and the second type of weather station is where we pull data from the weather station servers. In this tutorial, we will go for the first one, i.e. we will design our own weather station.
+this project is a device that collects data related to the weather  and environment using different sensors.
 
+The sensors used are: 
 
-Weather station sensors may include a thermometer to take temperature readings, a barometer to measure the atmospheric pressure, Hygrometer to measure humidity, rain sensor to measure rainfall, an anemometer to measure wind speed, and more. Weather stations are also called weather centers, personal weather stations, professional weather stations, home weather stations, weather forecaster, and forecasters.
+- a BMP180 barometric pressure Sensor to measure atmospheric pressure, 
 
+- a DHT11 humidity and temperature sensor to measure humidity and temperature,
+
+- a rain sensor with an LM393 module to measure rainfall.
+
+The following is the hardware design done with Proteus8.
 
 ![iot weather station](https://github.com/med0amine/IoT-weather-station/blob/main/images/iot%20weather%20station.png)
-
 
  The following is the application's user interface developed using HTML, CSS, and JavaScript.
  
