@@ -6,10 +6,12 @@ A weather station is a device that collects data related to the weather & enviro
 Weather station sensors may include a thermometer to take temperature readings, a barometer to measure the atmospheric pressure, Hygrometer to measure humidity, rain sensor to measure rainfall, an anemometer to measure wind speed, and more. Weather stations are also called weather centers, personal weather stations, professional weather stations, home weather stations, weather forecaster, and forecasters.
 
 
+![iot weather station](https://github.com/med0amine/IoT-weather-station/blob/main/images/iot%20weather%20station.png)
+
  
-![iot weather station](https://github.com/med0amine/IoT-weather-station/blob/main/images/UI.png)
+![UI](https://github.com/med0amine/IoT-weather-station/blob/main/images/UI.png)
 
 The following is the application's user interface developed using HTML, CSS, and JavaScript.
 
-![UI](https://github.com/med0amine/IoT-weather-station/blob/main/images/UI.png)
+
 
