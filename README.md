@@ -8,10 +8,7 @@ Weather station sensors may include a thermometer to take temperature readings, 
 
 ![iot weather station](https://github.com/med0amine/IoT-weather-station/blob/main/images/iot%20weather%20station.png)
 
+
+ The following is the application's user interface developed using HTML, CSS, and JavaScript.
  
 ![UI](https://github.com/med0amine/IoT-weather-station/blob/main/images/UI.png)
-
-The following is the application's user interface developed using HTML, CSS, and JavaScript.
-
-
-
